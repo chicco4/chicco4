@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Federico, a Computer Science student at the University of Venice.
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning cs
+- 👋 Hi, I’m Federico
+- 👀 I’m interested ...
+- 🌱 I’m currently learning Computer Science student at the University of Venice.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 ### books i'm reading
