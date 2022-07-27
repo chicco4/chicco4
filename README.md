@@ -2,7 +2,7 @@
 - 👀 I’m interested in comp
 - 🌱 I’m currently learning Computer Science student at the University of Venice.
 - 💞️ I’m looking to collaborate on a lot of open source projects
-- 📫 How to reach me [linkedinLink](https://www.linkedin.com/in/federico-scaggiante-6900b5233/)
+- 📫 How to [reach me](https://www.linkedin.com/in/federico-scaggiante-6900b5233/)
 ### books i'm reading
 - [The Nature of Code](https://natureofcode.com/)
 - [The Book of Shaders](https://thebookofshaders.com/?lan=eng)
