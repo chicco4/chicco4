@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @chicco4
+- 👋 Hi, I’m Federico, a Computer Science student at the University of Venice.
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning cs
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+## book i'm reading
+- https://natureofcode.com/
+- https://thebookofshaders.com/?lan=eng
 
 <!---
 chicco4/chicco4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
