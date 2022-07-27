@@ -6,6 +6,7 @@
 ### book i'm reading
 - https://natureofcode.com/
 - https://thebookofshaders.com/?lan=eng
+- book [booknk](https://www.amazon.it/dp/1098114671/?coliid=IAQA5APU5HL1G&colid=2G7US9UB3V5DC&psc=1&ref_=lv_ov_lig_dp_it), (https://www.amazon.it/dp/1098114671/?coliid=IAQA5APU5HL1G&colid=2G7US9UB3V5DC&psc=1&ref_=lv_ov_lig_dp_it "click here for a good time!").
 
 <!---
 chicco4/chicco4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
