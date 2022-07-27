@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 ### books i'm reading
-- https://natureofcode.com/
-- https://thebookofshaders.com/?lan=eng
+- [The Nature of Code](https://natureofcode.com/)
+- [The Book of Shaders](https://thebookofshaders.com/?lan=eng)
 - [Infrastructure As Code: Dynamic Systems for the Cloud Age](https://www.amazon.it/dp/1098114671/?coliid=IAQA5APU5HL1G&colid=2G7US9UB3V5DC&psc=1&ref_=lv_ov_lig_dp_it)
 
 <!---
