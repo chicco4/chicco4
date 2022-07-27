@@ -7,12 +7,10 @@
 - [The Nature of Code](https://natureofcode.com/)
   - [further reading](https://natureofcode.com/book/further-reading/)
 - [The Book of Shaders](https://thebookofshaders.com/?lan=eng)
+- [free computer books](https://freecomputerbooks.com/compscCategory.html)
 - [Algo-trading books](https://fxgears.com/index.php?threads/recommended-books-for-algo-trading-in-2020.1243/)
-  - [The Art and Science of Technical Analysis - Adam Grimes](https://www.amazon.com/Art-Science-Technical-Analysis-Strategies/dp/1118115120)
-  - [Building Winning Algorithmic Trading Systems - Kevin J. Davey](https://www.amazon.it/Building-Winning-Algorithmic-Trading-Systems/dp/1118778987)
 - [Infrastructure As Code: Dynamic Systems for the Cloud Age](https://www.amazon.it/dp/1098114671/?coliid=IAQA5APU5HL1G&colid=2G7US9UB3V5DC&psc=1&ref_=lv_ov_lig_dp_it)
 - [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.it/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
-  - [free computer books](https://freecomputerbooks.com/compscCategory.html)
 
 <!---
 chicco4/chicco4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
