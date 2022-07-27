@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Federico
-- 👀 I’m interested in fullstack sofware development
+- 👀 I’m interested in Fullstack Sofware Development
 - 🌱 I’m currently learning Computer Science student at the University of Venice.
 - 💞️ I’m looking to collaborate on a lot of open source projects
 - 📫 How to [Reach Me](https://www.linkedin.com/in/federico-scaggiante-6900b5233/)
