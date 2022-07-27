@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Computer Science student at the University of Venice.
 - 💞️ I’m looking to collaborate on a lot of open source projects
 - 📫 How to [Reach Me](https://www.linkedin.com/in/federico-scaggiante-6900b5233/)
-### books i'm reading
+### books i'm currently reading:
 - [The Nature of Code](https://natureofcode.com/)
 - [The Book of Shaders](https://thebookofshaders.com/?lan=eng)
 - [The Art and Science of Technical Analysis - Adam Grimes](https://www.amazon.com/Art-Science-Technical-Analysis-Strategies/dp/1118115120)
