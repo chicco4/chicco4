@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning cs
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-## book i'm reading
+### book i'm reading
 - https://natureofcode.com/
 - https://thebookofshaders.com/?lan=eng
 
