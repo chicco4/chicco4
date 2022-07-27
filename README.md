@@ -13,6 +13,7 @@
 - [Design Patterns of Successful Role-Playing Games](https://archive.org/details/RPGDesignPatterns91309)
 - [Principles of Animal Locomotion](https://www.amazon.it/Principles-Animal-Locomotion-McNeill-Alexander/dp/0691126348)
 - [The Computational Beauty of Nature: Computer Explorations of Fractals, Chaos, Complex Systems, and Adaptation](https://www.amazon.it/Computational-Beauty-Nature-Computer-Explorations/dp/0262561271/ref=sr_1_1?adgrpid=54230702284&gclid=Cj0KCQjwxIOXBhCrARIsAL1QFCYELYXMYnR_czIf7Y3CN8D-XCOw04KJ__MjoRC9NusdhzpxLnrKD04aAlSQEALw_wcB&hvadid=255172170385&hvdev=c&hvlocphy=1008964&hvnetw=g&hvqmt=e&hvrand=14340396708480769293&hvtargid=kwd-301484925756&hydadcr=18576_1822574&keywords=the+computational+beauty+of+nature&qid=1658954405&sr=8-1)
+- https://natureofcode.com/book/further-reading/
 
 <!---
 chicco4/chicco4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
