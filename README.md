@@ -10,7 +10,6 @@
 - [Building Winning Algorithmic Trading Systems - Kevin J. Davey](https://www.amazon.it/Building-Winning-Algorithmic-Trading-Systems/dp/1118778987)
 - [Infrastructure As Code: Dynamic Systems for the Cloud Age](https://www.amazon.it/dp/1098114671/?coliid=IAQA5APU5HL1G&colid=2G7US9UB3V5DC&psc=1&ref_=lv_ov_lig_dp_it)
 - [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.it/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
-
 - https://natureofcode.com/book/further-reading/
 - https://freecomputerbooks.com/compscCategory.html
 - https://fxgears.com/index.php?threads/recommended-books-for-algo-trading-in-2020.1243/
